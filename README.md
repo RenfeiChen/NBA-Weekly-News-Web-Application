@@ -38,3 +38,5 @@ npm start
 ```
 
 #### A Quick Show
+
+![image](https://github.com/RenfeiChen/NBA-Weekly-News-Web-Application/blob/master/show.gif)
